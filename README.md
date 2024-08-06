@@ -21,7 +21,7 @@
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiandhc)
 [![Skoob](https://img.shields.io/badge/Skoob-005F8E?style=for-the-badge&logo=skoob&logoColor=white)](https://www.skoob.com.br/usuario/918279)
 
 <!-- GIF -->
