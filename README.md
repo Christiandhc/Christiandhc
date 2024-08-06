@@ -25,7 +25,7 @@
 [![Skoob](https://img.shields.io/badge/Skoob-005F8E?style=for-the-badge&logo=skoob&logoColor=white)](https://www.skoob.com.br/usuario/918279)
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
 <br><br>
 </p>
