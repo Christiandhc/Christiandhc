@@ -30,6 +30,10 @@
 <br><br>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiandhc&show_icons=true&hide=stars,contribs,prs&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiandhc&layout=compact&theme=flag-india)
+
+
 ## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
 <div style="flex-basis: 48%;">
